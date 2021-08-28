@@ -1,0 +1,12 @@
+1.dx修复(DirectX 9.0 Web setup)
+适用于：缺少d3dx9_xx.dll
+2.vc全家桶修复("Microsoft Visual C++ )
+适用于：各种未知错误如“配置不正确”或其他错误；没有找到 MsvcpXXX.DLL
+3.Microsoft.Net Framework修复
+版本：4.8（实测Windows10无效，因为Windows会自动更新）
+适用于：部分错误：应用程序正常初始化(0xc000*****)失败；应用程序错误，内存不能为written或read
+4.我全都要！
+包含上面所有运行库
+5.修复说明
+本文档
+0*：提个issus以建议新的运行库
